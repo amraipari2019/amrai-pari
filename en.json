@@ -1,0 +1,347 @@
+{
+  "site": {
+    "name": "Amrai Pari Foundation",
+    "tagline": "Everyone Deserves a Chance",
+    "description": "Amrai Pari Foundation is a community-focused non-profit in Mirpur-13, Dhaka, working in education, healthcare and community building since 2019.",
+    "logoAlt": "Amrai Pari logo",
+    "area": "Mirpur-13, Dhaka, Bangladesh"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "programs": "Programs",
+    "projects": "Projects",
+    "impact": "Impact",
+    "getInvolved": "Get involved",
+    "contribute": "Contribute",
+    "events": "Events",
+    "gallery": "Gallery",
+    "team": "Our team",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "assistance": "Request assistance",
+    "partnership": "Partner with us",
+    "volunteer": "Volunteer",
+    "more": "More",
+    "skipToContent": "Skip to main content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNav": "Main navigation"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "bn": "বাংলা",
+    "switchTo": "বাংলায় দেখুন"
+  },
+  "common": {
+    "comingSoon": "This page is being built.",
+    "placeholderNotice": "Information pending official confirmation",
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "back": "Back",
+    "nothingYet": "Nothing has been published here yet. Please check back soon.",
+    "location": "Location",
+    "date": "Date",
+    "since": "Since 2019"
+  },
+  "footer": {
+    "about": "A community organisation in Mirpur-13, Dhaka, working in education, healthcare and community building since 2019.",
+    "explore": "Explore",
+    "help": "Take part",
+    "reach": "Reach us",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions",
+    "rights": "All rights reserved.",
+    "facebook": "Facebook",
+    "youtube": "YouTube",
+    "staff": "Staff sign in"
+  },
+  "home": {
+    "heroTitle": "Everyone deserves a chance",
+    "heroBody": "Together, we can build a community where everyone has the opportunity to live with dignity, access essential support, and create a better future.",
+    "exploreWork": "See our work",
+    "becomeVolunteer": "Become a volunteer",
+    "established": "Serving Mirpur-13, Dhaka since 2019",
+    "factYear": "Founded",
+    "factYearValue": "2019",
+    "factArea": "Where we work",
+    "factAreaValue": "Mirpur-13, Dhaka",
+    "factPeople": "Permanent volunteers",
+    "factPeopleValue": "10+",
+    "whoTitle": "Neighbours helping neighbours",
+    "whoBody": "Amrai Pari means “we can”. Started in 2019 by Sharmin Nasima Banu, the Foundation brings local people together to keep children learning, help families reach health care, and look after one another.",
+    "whoLink": "Our story",
+    "programsTitle": "What we do",
+    "programsBody": "Three areas of work, run by volunteers from the community.",
+    "projectsTitle": "Current projects",
+    "eventsTitle": "Coming up",
+    "eventsEmpty": "No upcoming events right now. Follow us on Facebook for news.",
+    "impactTitle": "Our work in numbers",
+    "galleryTitle": "From the field",
+    "partnersTitle": "Working alongside",
+    "helpTitle": "Need support?",
+    "helpBody": "If you or your family need help with education, health or a difficult situation, tell us. Your request is seen only by authorised staff.",
+    "helpCta": "Request assistance",
+    "joinTitle": "Give your time, skills or support",
+    "joinBody": "Volunteer with us, support a program, or partner as an organisation.",
+    "joinVolunteer": "Become a volunteer",
+    "joinContribute": "Contribute"
+  },
+  "about": {
+    "title": "About us",
+    "intro": "Amrai Pari Foundation is a community-focused non-profit in Mirpur-13, Dhaka. Since 2019 we have worked in education, healthcare and community building.",
+    "storyTitle": "Our story",
+    "storyFallback": "The Foundation was started in 2019 by Sharmin Nasima Banu with a simple belief: everyone deserves a chance. It has grown into a team of more than ten permanent volunteers serving families in Mirpur-13.",
+    "missionTitle": "Mission",
+    "visionTitle": "Vision",
+    "founderTitle": "Founder",
+    "focusTitle": "Where we focus",
+    "registrationTitle": "Registration",
+    "registered": "The Foundation is a registered organisation.",
+    "registrationAuthority": "Registering authority",
+    "registrationNumber": "Registration number",
+    "meetTeam": "Meet the team"
+  },
+  "programs": {
+    "title": "Programs",
+    "intro": "Our work is organised into programs. Each one is run by volunteers who live in the community.",
+    "related": "Projects in this program",
+    "support": "Support this program"
+  },
+  "projects": {
+    "title": "Projects",
+    "intro": "Specific pieces of work with a place, a time and a purpose.",
+    "status_planned": "Planned",
+    "status_ongoing": "Ongoing",
+    "status_completed": "Completed",
+    "started": "Started",
+    "ended": "Ended"
+  },
+  "impact": {
+    "title": "Impact",
+    "intro": "We only publish figures that have been checked by the Foundation, with their source and date.",
+    "asOf": "As of",
+    "source": "Source",
+    "empty": "Verified figures will appear here once the Foundation publishes them.",
+    "storiesTitle": "See the work"
+  },
+  "events": {
+    "title": "Events",
+    "intro": "Camps, drives, workshops and gatherings. Everyone is welcome.",
+    "upcoming": "Upcoming",
+    "past": "Past events",
+    "when": "When",
+    "where": "Where",
+    "register": "Register for this event",
+    "registrationClosed": "Registration is not open for this event.",
+    "noUpcoming": "No upcoming events right now."
+  },
+  "gallery": {
+    "title": "Gallery",
+    "intro": "Photos from our programs and events, shared with the consent of the people in them.",
+    "photos": "{count, plural, =0 {No photos} one {# photo} other {# photos}}",
+    "close": "Close",
+    "next": "Next photo",
+    "prev": "Previous photo"
+  },
+  "team": {
+    "title": "Our team",
+    "intro": "The people who keep the Foundation running, most of them volunteers.",
+    "founder": "Founder",
+    "executive": "Executive committee",
+    "advisor": "Advisors",
+    "volunteer": "Volunteers",
+    "joinUs": "Want to join them?"
+  },
+  "contribute": {
+    "title": "Contribute",
+    "intro": "Your support keeps our programs running. Please send contributions only to the official details below.",
+    "mobile": "Mobile banking",
+    "bank": "Bank transfer",
+    "bkash": "bKash",
+    "nagad": "Nagad",
+    "accountName": "Account name",
+    "accountNumber": "Account number",
+    "bankName": "Bank",
+    "branch": "Branch",
+    "routing": "Routing number",
+    "copy": "Copy",
+    "copied": "Copied",
+    "pending": "Payment details will be published here once the Foundation confirms them. Until then, please contact us before sending any money.",
+    "safety": "We will never ask for your PIN, OTP or card details. Report anyone who does.",
+    "otherWays": "Other ways to help",
+    "otherWaysBody": "Give your time as a volunteer, donate books or supplies, or partner with us as an organisation.",
+    "afterTitle": "After you send",
+    "afterBody": "Send us your name, amount and transaction ID through the contact form so we can acknowledge your contribution."
+  },
+  "getInvolved": {
+    "title": "Get involved",
+    "intro": "There is a place for everyone at Amrai Pari, whether you have an hour a week or an organisation behind you.",
+    "volunteerTitle": "Volunteer",
+    "volunteerBody": "Help at events, teach, organise health camps or support families.",
+    "partnerTitle": "Partner with us",
+    "partnerBody": "Schools, clinics, businesses and other organisations can work with us.",
+    "contributeTitle": "Contribute",
+    "contributeBody": "Support our programs financially or with supplies.",
+    "stepsTitle": "How volunteering works",
+    "step1": "Fill in the form below.",
+    "step2": "A coordinator calls you within a week.",
+    "step3": "Join your first activity with the team."
+  },
+  "form": {
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone number",
+    "optional": "optional",
+    "required": "required",
+    "message": "Message",
+    "consent": "I agree that Amrai Pari Foundation may store these details and contact me about this request.",
+    "sending": "Sending…",
+    "successTitle": "Received",
+    "successBody": "Thank you. Please keep this reference number.",
+    "sendAnother": "Send another",
+    "errorGeneric": "We couldn't send your form. Please check your connection and try again.",
+    "errorFields": "Please correct the highlighted fields.",
+    "errorNotReady": "Online forms are not connected yet. Please contact us by phone or Facebook.",
+    "errorCaptcha": "Please complete the security check.",
+    "err_required": "This field is required.",
+    "err_email": "Enter a valid email address.",
+    "err_phone": "Enter a valid Bangladeshi phone number, e.g. 01XXXXXXXXX.",
+    "err_tooLong": "This is too long.",
+    "err_consent": "Please tick the box to continue.",
+    "err_number": "Enter a number in the allowed range."
+  },
+  "volunteerForm": {
+    "title": "Volunteer application",
+    "area": "Area where you live",
+    "occupation": "Occupation or studies",
+    "interests": "What would you like to help with?",
+    "interest_education": "Teaching and education",
+    "interest_health": "Health camps",
+    "interest_events": "Events and logistics",
+    "interest_fundraising": "Fundraising",
+    "interest_media": "Photos, design and social media",
+    "interest_other": "Anything that's needed",
+    "availability": "When are you available?",
+    "avail_weekdays": "Weekdays",
+    "avail_weekends": "Weekends",
+    "avail_events": "Only for events",
+    "avail_flexible": "Flexible",
+    "skills": "Skills or experience",
+    "message": "Anything else we should know?",
+    "submit": "Send application"
+  },
+  "assistanceForm": {
+    "title": "Request assistance",
+    "intro": "Tell us what you need. A staff member will review your request and call you. Only authorised staff can see it.",
+    "address": "Address",
+    "type": "Type of help needed",
+    "type_education": "Education support",
+    "type_health": "Health or medical support",
+    "type_food": "Food or essentials",
+    "type_elderly": "Care for an elderly person",
+    "type_other": "Something else",
+    "household": "People in your household",
+    "description": "Describe your situation",
+    "descriptionHint": "Share only what you are comfortable sharing.",
+    "submit": "Send request",
+    "note": "Sending a request does not guarantee support. We will be honest with you about what we can do."
+  },
+  "contactForm": {
+    "title": "Send us a message",
+    "subject": "Subject",
+    "submit": "Send message"
+  },
+  "partnershipForm": {
+    "title": "Partnership inquiry",
+    "intro": "Tell us about your organisation and how you'd like to work together.",
+    "organization": "Organisation name",
+    "contactPerson": "Contact person",
+    "type": "Type of partnership",
+    "type_program": "Run or fund a program",
+    "type_inkind": "In-kind support (supplies, venue, services)",
+    "type_medical": "Medical partnership",
+    "type_csr": "Corporate social responsibility",
+    "type_other": "Other",
+    "submit": "Send inquiry"
+  },
+  "registrationForm": {
+    "attendees": "Number of people attending",
+    "submit": "Register"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "Questions, ideas or offers of help — we read every message.",
+    "details": "Contact details",
+    "address": "Address",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "facebookFallback": "The quickest way to reach us right now is our Facebook page.",
+    "mapTitle": "Map"
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "intro": "Can't find your answer? Send us a message."
+  },
+  "legal": {
+    "privacyTitle": "Privacy policy",
+    "termsTitle": "Terms and conditions",
+    "draft": "Draft for review by the Foundation.",
+    "privacy": [
+      {
+        "heading": "What we collect",
+        "body": "When you fill in a form we store the details you give us, such as your name, phone number and message. We do not collect payment card details."
+      },
+      {
+        "heading": "How we use it",
+        "body": "Only to respond to your request, organise volunteering and events, and keep records required to run the Foundation."
+      },
+      {
+        "heading": "Who can see it",
+        "body": "Only Foundation staff who need it for their role. We do not sell or share your details with advertisers."
+      },
+      {
+        "heading": "Your choices",
+        "body": "Contact us to see, correct or delete the details we hold about you."
+      },
+      {
+        "heading": "Photos",
+        "body": "We publish photos of identifiable people only with their consent, or a guardian's consent for children."
+      }
+    ],
+    "terms": [
+      {
+        "heading": "Using this website",
+        "body": "By using this website you agree to these terms. The content is provided to inform the public about the Foundation's work."
+      },
+      {
+        "heading": "Contributions",
+        "body": "Contributions are voluntary. Send money only to the official details on the Contribute page. The Foundation is not responsible for money sent elsewhere."
+      },
+      {
+        "heading": "Requests for assistance",
+        "body": "Submitting a request does not guarantee support. Decisions depend on need and available resources."
+      },
+      {
+        "heading": "Content",
+        "body": "Text, photos and the logo belong to Amrai Pari Foundation unless stated otherwise. Please ask before reusing them."
+      },
+      {
+        "heading": "Changes",
+        "body": "We may update these terms. The latest version is always on this page."
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you are looking for does not exist or has moved.",
+    "backHome": "Back to home"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "body": "This page couldn't load. Try again, or come back in a few minutes.",
+    "retry": "Try again"
+  }
+}
